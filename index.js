@@ -1,7 +1,9 @@
 const express = require('express');
-
+const cors = require('cors');
 const chefData = require('./chefData.json')
 const app = express();
+app.use(cors());
+
 app.get('/', (req, res)=>{
    
 })

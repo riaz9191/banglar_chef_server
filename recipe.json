@@ -1,0 +1,103 @@
+[{
+        "id": 1,
+        "chefId": 1,
+        "recipeName": "Biriyani",
+        "recipePic": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2021/03/19/biriyani.jpg",
+        "ingredients": [
+            "2 cups basmati rice",
+            "2 chicken breasts, cut into pieces",
+            "1 onion, sliced",
+            "1 tbsp ghee",
+            "2 tbsp biriyani masala",
+            "4 cups water",
+            "Salt to taste"
+        ],
+        "cookingMethod": "1. Wash and soak the rice for 30 minutes. \n2. In a pan, heat the ghee and fry the onions until golden brown. \n3. Add the chicken and biriyani masala and fry for a few minutes. \n4. Add water and salt to the pan and bring to a boil. \n5. Drain the soaked rice and add it to the pan. \n6. Cover the pan and cook on low heat until the rice is done. \n7. Serve hot with raita and salad.",
+        "rating": 4.5,
+        "favorite": false
+    },
+    {
+        "id": 2,
+        "chefId": 1,
+        "recipeName": "Rasgulla",
+        "recipePic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2M5oc81YaPd0hs1MKqhB0AUXOfRemQvHSHg&usqp=CAU",
+        "ingredients": [
+            "2 litres whole milk",
+            "1/4 cup lemon juice",
+            "3 cups sugar",
+            "4 cups water",
+            "1 tsp rose water",
+            "1 tsp cardamom powder"
+        ],
+        "cookingMethod": "1. In a pan, heat the milk and bring to a boil. \n2. Add lemon juice and stir until the milk curdles. \n3. Drain the curdled milk in a muslin cloth and hang for 1 hour to remove excess water. \n4. Knead the chenna (curdled milk) until smooth. \n5. Make small balls out of the chenna. \n6. In a pan, mix sugar and water and bring to a boil. \n7. Add the chenna balls to the pan and cover. \n8. Cook on medium heat for 15 minutes. \n9. Remove from heat and add rose water and cardamom powder. \n10. Chill in the refrigerator for 2 hours before serving.",
+        "rating": 4.8,
+        "favorite": true
+    },
+    {
+        "id": 3,
+        "chefId": 1,
+        "recipeName": "Chingri Malai Curry",
+        "recipePic": "https://c.ndtvimg.com/2020-01/u0sduf7s_620_625x300_21_January_20.jpg",
+        "ingredients": [
+            "500g prawns, shelled and deveined",
+            "2 onions, chopped",
+            "1/4 cup mustard oil",
+            "1/4 cup coconut milk",
+            "1 tsp ginger paste",
+            "1 tsp garlic paste",
+            "2 green chillies, slit",
+            "1 tsp turmeric powder",
+            "1 tsp cumin powder",
+            "1 tsp coriander powder",
+            "Salt to taste"
+        ],
+        "cookingMethod": "1. In a pan, heat the mustard oil and fry the onions until golden brown. \n2. Add the ginger and garlic paste and fry for a few minutes. \n3. Add the green chillies, turmeric, cumin and coriander powder and fry for a minute. \n4. Add the prawns to the pan and cook for 5 minutes. \n5. Add salt and coconut milk and simmer for 5 minutes. \n6. Serve hot with rice.",
+        "rating": 4.7,
+        "favorite": true
+    },
+    {
+        "id": 4,
+        "chefId": 1,
+        "recipeName": "Bengali Style Fish Curry",
+        "recipePic": "https://somethingiscooking.com/wp-content/uploads/2017/01/BengaliFishCurry2.jpg",
+        "ingredients": [
+            "1 lb fish",
+            "1 large onion, sliced",
+            "1/2 teaspoon turmeric powder",
+            "1 teaspoon red chili powder",
+            "1 teaspoon cumin powder",
+            "1 teaspoon coriander powder",
+            "1 teaspoon salt",
+            "2 tablespoons oil",
+            "2 green chilies, slit",
+            "1 cup water",
+            "2 tablespoons chopped cilantro leaves"
+        ],
+        "cookingMethod": "1. Heat oil in a pan and fry the onions until golden brown. Add the turmeric, red chili powder, cumin powder, coriander powder, and salt. Fry for a few seconds.\n2. Add the fish and green chilies. Fry for a few minutes until the fish is lightly browned.\n3. Add the water and bring to a boil. Reduce the heat, cover and simmer for 10 minutes or until the fish is cooked through.\n4. Garnish with chopped cilantro and serve hot with rice.",
+        "rating": 4.5,
+        "favorite": false
+    },
+    {
+        "id": 5,
+        "chefId": 1,
+        "recipeName": "Chingri Malai Curry",
+        "recipePic": "https://rumkisgoldenspoon.com/wp-content/uploads/2022/05/Chingri-macher-malai-curry.jpg",
+        "ingredients": [
+            "1 lb shrimp",
+            "1/2 teaspoon turmeric powder",
+            "1 teaspoon red chili powder",
+            "1 teaspoon cumin powder",
+            "1 teaspoon coriander powder",
+            "1 teaspoon salt",
+            "1/2 cup grated coconut",
+            "1/2 cup milk",
+            "2 tablespoons oil",
+            "2 green chilies, slit",
+            "1 cup water",
+            "2 tablespoons chopped cilantro leaves"
+        ],
+        "cookingMethod": "1. Heat oil in a pan and fry the shrimp until lightly browned. Remove from the pan and set aside.\n2. In the same pan, add the turmeric, red chili powder, cumin powder, coriander powder, and salt. Fry for a few seconds.\n3. Add the grated coconut and fry for a few minutes until lightly browned.\n4. Add the milk and green chilies. Bring to a boil, reduce heat and simmer for 5 minutes.\n5. Add the fried shrimp and water. Bring to a boil, reduce heat and simmer for 10 minutes or until the shrimp is cooked through.\n6. Garnish with chopped cilantro and serve hot with rice.",
+        "rating": 4.2,
+        "favorite": false
+    }
+]

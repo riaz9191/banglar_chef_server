@@ -1,6 +1,7 @@
 const express = require('express');
 const cors = require('cors');
 const chefData = require('./chefData.json')
+const recipe = require('./recipe.json')
 const port = process.env.PORT || 7000
 const app = express();
 app.use(cors());
@@ -11,6 +12,10 @@ app.get('/', (req, res)=>{
 app.get('/chefData', (req, res)=>{
     res.send(chefData)
     console.log(chefData)
+})
+app.get('/recipe', (req, res)=>{
+    res.send(recipe)
+    console.log(recipe)
 })
 app.get('/chefData/:id',(req, res)=>{
     const id = req.params.id;

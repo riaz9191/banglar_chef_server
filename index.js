@@ -1,21 +1,23 @@
 const express = require('express');
 const cors = require('cors');
 const chefData = require('./chefData.json')
-const port = process.env.PORT || 5000
+const port = process.env.PORT || 7000
 const app = express();
 app.use(cors());
 
 app.get('/', (req, res)=>{
-   
+    res.send('dragon is running')
 })
 app.get('/chefData', (req, res)=>{
     res.send(chefData)
+    console.log(chefData)
 })
 app.get('/chefData/:id',(req, res)=>{
     const id = req.params.id;
     console.log(id)
-    const selected = news.find(n => n._id === id)
-    res.send(selected)
+    const selectedData = chefData.find(n => n.id == id)
+    console.log(selectedData)
+    res.send(selectedData)
 })
 
 app.listen(port,() => { 

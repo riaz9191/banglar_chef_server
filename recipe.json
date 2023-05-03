@@ -12,9 +12,9 @@
             "4 cups water",
             "Salt to taste"
         ],
-        "cookingMethod": "1. Wash and soak the rice for 30 minutes. \n2. In a pan, heat the ghee and fry the onions until golden brown. \n3. Add the chicken and biriyani masala and fry for a few minutes. \n4. Add water and salt to the pan and bring to a boil. \n5. Drain the soaked rice and add it to the pan. \n6. Cover the pan and cook on low heat until the rice is done. \n7. Serve hot with raita and salad.",
-        "rating": 4.5,
-        "favorite": false
+        "cookingMethod": " Wash and soak the rice for 30 minutes. \n In a pan, heat the ghee and fry the onions until golden brown. \n Add the chicken and biriyani masala and fry for a few minutes. \n Add water and salt to the pan and bring to a boil. \n Drain the soaked rice and add it to the pan. \n Cover the pan and cook on low heat until the rice is done. \n Serve hot with raita and salad.",
+        "rating": 4.5
+        
     },
     {
         "id": 2,
@@ -29,10 +29,9 @@
             "1 tsp rose water",
             "1 tsp cardamom powder"
         ],
-        "cookingMethod": "1. In a pan, heat the milk and bring to a boil. \n2. Add lemon juice and stir until the milk curdles. \n3. Drain the curdled milk in a muslin cloth and hang for 1 hour to remove excess water. \n4. Knead the chenna (curdled milk) until smooth. \n5. Make small balls out of the chenna. \n6. In a pan, mix sugar and water and bring to a boil. \n7. Add the chenna balls to the pan and cover. \n8. Cook on medium heat for 15 minutes. \n9. Remove from heat and add rose water and cardamom powder. \n10. Chill in the refrigerator for 2 hours before serving.",
-        "rating": 4.8,
-        "favorite": true
-    },
+        "cookingMethod": " In a pan, heat the milk and bring to a boil. \n Add lemon juice and stir until the milk curdles. \n Drain the curdled milk in a muslin cloth and hang for 1 hour to remove excess water. \n Knead the chenna (curdled milk) until smooth. \n Make small balls out of the chenna. \n In a pan, mix sugar and water and bring to a boil. \n Add the chenna balls to the pan and cover. \n Cook on medium heat for 15 minutes. \n9. Remove from heat and add rose water and cardamom powder. \n10. Chill in the refrigerator for 2 hours before serving.",
+        "rating": 8
+            },
     {
         "id": 3,
         "chefId": 1,
@@ -51,15 +50,14 @@
             "1 tsp coriander powder",
             "Salt to taste"
         ],
-        "cookingMethod": "1. In a pan, heat the mustard oil and fry the onions until golden brown. \n2. Add the ginger and garlic paste and fry for a few minutes. \n3. Add the green chillies, turmeric, cumin and coriander powder and fry for a minute. \n4. Add the prawns to the pan and cook for 5 minutes. \n5. Add salt and coconut milk and simmer for 5 minutes. \n6. Serve hot with rice.",
-        "rating": 4.7,
-        "favorite": true
-    },
+        "cookingMethod": " In a pan, heat the mustard oil and fry the onions until golden brown. \n Add the ginger and garlic paste and fry for a few minutes. \n Add the green chillies, turmeric, cumin and coriander powder and fry for a minute. \n Add the prawns to the pan and cook for 5 minutes. \n Add salt and coconut milk and simmer for 5 minutes. \n Serve hot with rice.",
+        "rating": 4.7
+            },
     {
         "id": 4,
         "chefId": 1,
         "recipeName": "Bengali Style Fish Curry",
-        "recipePic": "https://somethingiscooking.com/wp-content/uploads/2017/01/BengaliFishCurry2.jpg",
+        "recipePic": "https://i2.wp.com/www.bharatzkitchen.com/wp-content/uploads/2020/08/rohu-Fish-Curry.jpg?fit=480%2C270&ssl=1",
         "ingredients": [
             "1 lb fish",
             "1 large onion, sliced",
@@ -73,9 +71,9 @@
             "1 cup water",
             "2 tablespoons chopped cilantro leaves"
         ],
-        "cookingMethod": "1. Heat oil in a pan and fry the onions until golden brown. Add the turmeric, red chili powder, cumin powder, coriander powder, and salt. Fry for a few seconds.\n2. Add the fish and green chilies. Fry for a few minutes until the fish is lightly browned.\n3. Add the water and bring to a boil. Reduce the heat, cover and simmer for 10 minutes or until the fish is cooked through.\n4. Garnish with chopped cilantro and serve hot with rice.",
-        "rating": 4.5,
-        "favorite": false
+        "cookingMethod": " Heat oil in a pan and fry the onions until golden brown. Add the turmeric, red chili powder, cumin powder, coriander powder, and salt. Fry for a few seconds.\n Add the fish and green chilies. Fry for a few minutes until the fish is lightly browned.\n Add the water and bring to a boil. Reduce the heat, cover and simmer for 10 minutes or until the fish is cooked through.\n Garnish with chopped cilantro and serve hot with rice.",
+        "rating": 4.5
+        
     },
     {
         "id": 5,
@@ -96,8 +94,8 @@
             "1 cup water",
             "2 tablespoons chopped cilantro leaves"
         ],
-        "cookingMethod": "1. Heat oil in a pan and fry the shrimp until lightly browned. Remove from the pan and set aside.\n2. In the same pan, add the turmeric, red chili powder, cumin powder, coriander powder, and salt. Fry for a few seconds.\n3. Add the grated coconut and fry for a few minutes until lightly browned.\n4. Add the milk and green chilies. Bring to a boil, reduce heat and simmer for 5 minutes.\n5. Add the fried shrimp and water. Bring to a boil, reduce heat and simmer for 10 minutes or until the shrimp is cooked through.\n6. Garnish with chopped cilantro and serve hot with rice.",
-        "rating": 4.2,
-        "favorite": false
+        "cookingMethod": " Heat oil in a pan and fry the shrimp until lightly browned. Remove from the pan and set aside.\n In the same pan, add the turmeric, red chili powder, cumin powder, coriander powder, and salt. Fry for a few seconds.\n Add the grated coconut and fry for a few minutes until lightly browned.\n Add the milk and green chilies. Bring to a boil, reduce heat and simmer for 5 minutes.\n Add the fried shrimp and water. Bring to a boil, reduce heat and simmer for 10 minutes or until the shrimp is cooked through.\n Garnish with chopped cilantro and serve hot with rice.",
+        "rating": 4.2
+        
     }
 ]

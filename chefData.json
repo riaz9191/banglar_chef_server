@@ -1,49 +1,49 @@
 [{
     "id": 1,
-    "chefName": "Alice Johnson",
+    "chefName": "Azad Azom",
     "chefPicture": "https://i.ibb.co/XLbcmrM/portrait-smiling-chef-uniform-329181-675.jpg",
     "yearsOfExperience": 12,
-    "numberOfRecipes": 50,
+    "numberOfRecipes": 5,
     "likes": 2000,
     "shortDescription": "Chef Alice Johnson is known for her creative and modern approach to classic dishes. She has worked in some of the top restaurants in the country and has won several awards for her innovative cuisine."
 }, {
     "id": 2,
-    "chefName": "Benjamin Lee",
-    "chefPicture": "https://i.ibb.co/XLbcmrM/portrait-smiling-chef-uniform-329181-675.jpg",
+    "chefName": "Benjamin Ali",
+    "chefPicture": "https://news.uga.edu/wp-content/uploads/2022/11/ChefJorgeNoriega-07-Square.jpg",
     "yearsOfExperience": 7,
-    "numberOfRecipes": 30,
+    "numberOfRecipes": 3,
     "likes": 1200,
     "shortDescription": "Chef Benjamin Lee specializes in fusion cuisine, blending flavors and techniques from different cultures to create unique and delicious dishes. He is also an advocate for sustainable and ethical food practices."
 }, {
     "id": 3,
-    "chefName": "Catherine Chen",
-    "chefPicture": "https://i.ibb.co/XLbcmrM/portrait-smiling-chef-uniform-329181-675.jpg",
+    "chefName": "Alex Khandakar",
+    "chefPicture": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1518533924-min.jpg",
     "yearsOfExperience": 15,
-    "numberOfRecipes": 80,
+    "numberOfRecipes": 8,
     "likes": 5000,
     "shortDescription": "Chef Catherine Chen is a pastry chef extraordinaire, creating stunning and delectable desserts that are as beautiful as they are delicious. She has won multiple awards for her pastry creations and is a sought-after consultant for bakeries and restaurants."
 }, {
     "id": 4,
-    "chefName": "David Kim",
-    "chefPicture": "https://i.ibb.co/XLbcmrM/portrait-smiling-chef-uniform-329181-675.jpg",
+    "chefName": "David Choudhury",
+    "chefPicture": "https://news.harvard.edu/wp-content/uploads/2022/12/Chef-Ben-Howe-and-DELISH-Dishes-2-1200x800.jpg",
     "yearsOfExperience": 20,
-    "numberOfRecipes": 100,
+    "numberOfRecipes": 5,
     "likes": 8000,
     "shortDescription": "Chef David Kim is a master of traditional French cuisine, having trained in some of the top French kitchens in the world. He brings his expertise to his own restaurant, where he creates classic dishes with a modern twist."
 }, {
     "id": 5,
-    "chefName": "Emily Rodriguez",
-    "chefPicture": "https://i.ibb.co/XLbcmrM/portrait-smiling-chef-uniform-329181-675.jpg",
+    "chefName": "Azam Shah",
+    "chefPicture": "https://img.freepik.com/free-photo/portrait-handsome-male-chef-dressed-uniform_171337-5352.jpg",
     "yearsOfExperience": 9,
-    "numberOfRecipes": 40,
+    "numberOfRecipes": 4,
     "likes": 1500,
     "shortDescription": "Chef Emily Rodriguez is a rising star in the culinary world, known for her bold and experimental approach to cooking. She draws inspiration from her travels around the world and is always looking for new and exciting flavor combinations."
 }, {
     "id": 6,
-    "chefName": "Franklin Yu",
-    "chefPicture": "https://i.ibb.co/XLbcmrM/portrait-smiling-chef-uniform-329181-675.jpg",
+    "chefName": "Papon Haque",
+    "chefPicture": "https://www.hitsa.com.au/wp-content/uploads/types-of-chefs.jpg",
     "yearsOfExperience": 5,
-    "numberOfRecipes": 20,
+    "numberOfRecipes": 6,
     "likes": 800,
     "shortDescription": "Chef Franklin Yu is a young and ambitious chef, with a passion for creating authentic and flavorful Asian cuisine. He draws on his family's culinary traditions to create dishes that are both comforting and delicious."
 }]
